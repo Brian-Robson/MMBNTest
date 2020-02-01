@@ -40,10 +40,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 5738772278800681160}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 20d9723a71dc36e498baceb83922bc1b, type: 3}
+  m_Script: {fileID: 11500000, guid: 7ebd4fb5c0b02ae43b6d2d9e50d34678, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   playerCharacter: {fileID: 1465847333066479028, guid: 3a24152cfea03b44589bb0dc6bcd3968,
     type: 3}
+  testEnemy: {fileID: 8919253065979685349, guid: 2b7d941799a05b3439a731a17a675af9,
+    type: 3}
   battleTile: {fileID: 4147881509199515923, guid: 17d6d86225850554bb62e181648441e7,
     type: 3}
+  playerHealth: 0
